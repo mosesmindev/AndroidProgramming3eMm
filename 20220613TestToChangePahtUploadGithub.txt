@@ -1,0 +1,3 @@
+将目录从E:\DownloadFiles\BaiduNetdiskDownload\AndroidStudy\00 PDF\AndroidProgramming3eMm
+更改到E:\Github\AndroidProgramming3eMm后（通过粘贴复制的方式更改的，文件内容没有任何变化，.git 文件也没有更新变动，
+测试还能否正常上传到Github的AndroidProgramming3eMm库中）
